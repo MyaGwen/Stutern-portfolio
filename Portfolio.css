@@ -190,12 +190,17 @@ ul li a {
     padding: 5px;
 }
 
-.skills ul .A li {
+.skills ul .A li,
+.skills ul .B li,
+.skills ul .C li,
+.skills ul .D li,
+.skills ul .E li {
     display: inline;
     font-weight: 900;
 
 }
 
+/* 
 .skills ul .B li {
     display: inline;
     font-weight: 900;
@@ -218,4 +223,4 @@ ul li a {
     display: inline;
     font-weight: 900;
 
-}
+} */
